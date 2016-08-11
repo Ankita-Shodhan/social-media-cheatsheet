@@ -60,21 +60,6 @@
 * All sizes here are in pixels (px)
 * If there's a single size listed here, that's the width meaning height doesn't matter in that case
 
-#### References
-* https://support.twitter.com/articles/127871-customizing-your-profile
-* https://www.facebook.com/help/266520536764594/ (fb cover photo)
-* https://www.facebook.com/help/492441920771107/ (fb profile pic)
-* https://www.facebook.com/help/388305657884730/ (fb profile and cover photo)
-* https://developers.facebook.com/docs/sharing/best-practices#images (fb sharing images)
-* https://support.google.com/plus/answer/1057172?hl=en
-* https://help.linkedin.com/app/answers/detail/a_id/45902/ft/eng
-* https://www.tumblr.com/docs/en/photo_troubleshooting
-* https://medium.com/help-center/images-652ee60abea6
- * https://twitter.com/Medium/status/587718302765416448
-* https://business.pinterest.com/sites/business/files/how-to-make-great-pins-guide-en-01.pdf
-* https://codex.wordpress.org/Theme_Development#Screenshot
-* https://make.wordpress.org/core/2014/08/21/introducing-plugin-icons-in-the-plugin-installer/
-
 ## Social Media Color Guide
 
 ### Behance
